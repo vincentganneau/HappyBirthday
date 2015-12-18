@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Strings
+
+    @author Vincent Ganneau
+
+    Copyright (C) 2015
+
+-->
+<resources>
+
+    <!-- Application name -->
+    <string name="app_name">Happy Birthday!</string>
+
+    <!-- Empty states -->
+    <string name="empty_contacts_list">No birthday to celebrate.</string>
+
+    <!-- Happy birthday -->
+    <string name="happy_birthday">Happy birthday %1$s!</string>
+    <string name="happy_birthday_action_chooser_title">Say \"Happy birthday\" with:</string>
+
+</resources>
